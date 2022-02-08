@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Jess Github',
-  base: '/blog',
+  base: '/blog/',
   description: 'Jess Github',
   themeConfig: {
     logo: 'logo-mini.jpg',
